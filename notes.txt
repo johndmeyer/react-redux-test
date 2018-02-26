@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F4C7-5490
+
+ Directory of c:\Users\john.meyer\Desktop\reactReduxTestProject\react-redux-test
+
+02/26/2018  04:41 PM    <DIR>          .
+02/26/2018  04:41 PM    <DIR>          ..
+02/26/2018  03:42 PM               285 .gitignore
+02/26/2018  04:29 PM    <DIR>          node_modules
+02/26/2018  04:41 PM                 0 notes.txt
+02/26/2018  03:46 PM           361,244 package-lock.json
+02/26/2018  03:46 PM               434 package.json
+02/26/2018  03:42 PM    <DIR>          public
+02/26/2018  03:42 PM           119,087 README.md
+02/26/2018  04:16 PM    <DIR>          src
+               5 File(s)        481,050 bytes
+               5 Dir(s)  107,087,179,776 bytes free
